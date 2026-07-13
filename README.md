@@ -1,19 +1,19 @@
-# OpenTCL
+# TeraFrame
 A Open source C/C++ framework and used for system programming
 
-# OpenTCL
+# TeraFrame
 
 > A modern C/C++ framework for systems, infrastructure, and high-performance software.
 
 > ⚠️ **Status:** Early Development (Pre-Alpha)
 >
-> OpenTCL is currently under active development. APIs, modules, and architecture are experimental and may change without notice.
+> TeraFrame is currently under active development. APIs, modules, and architecture are experimental and may change without notice.
 
 ---
 
 ## About
 
-OpenTCL is an open-source C/C++ framework being developed by **TINC-70**.
+TeraFrame is an open-source C/C++ framework being developed by **TINC-70**.
 
 The goal is to provide a modular foundation for building:
 
@@ -44,7 +44,7 @@ Current Focus:
 ## Planned Architecture
 
 ```
-OpenTCL
+TeraFrame
 │
 ├── Core
 ├── Memory
