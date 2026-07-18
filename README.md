@@ -1,5 +1,5 @@
 # OpenTCF
-This the Organization version of TeraFrame and authorised for the owner
+This the Non-Organization version of TeraFrame and authorised for the owner
 
 # TeraFrame
 A Open source C/C++ framework and used for system programming
